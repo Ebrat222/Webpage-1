@@ -2,7 +2,7 @@
 
 This is a simple HTML form hosted on GitHub Pages. You can view it live here:  
 
-🔗 **Live Demo:** [https://ebrat222.github.io/html_form/](https://ebrat222.github.io/html_form/)  
+🔗 **Live Demo:** [https://ebrat222.github.io/Webpage-1/](https://ebrat222.github.io/Webpage-1/)  
 
 ## Features  
 ✅ Simple HTML form  
